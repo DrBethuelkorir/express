@@ -11,7 +11,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dotevn": "^0.0.1-security",
     "express": "^5.2.1",
+    "mongoose": "^9.2.4",
     "nodemon": "^3.1.14"
   }
 }
